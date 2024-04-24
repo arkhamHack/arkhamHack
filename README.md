@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **avigyan179@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SOknC5iEF3TBzMbrQ-qaetv57sWhaY26/view?usp=sharing](https://drive.google.com/file/d/1SOknC5iEF3TBzMbrQ-qaetv57sWhaY26/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1bMjJHTWkpPs88HtQdRo4E-m8U9t0Md-YRHHfbn3R8kM/edit?usp=sharing](https://docs.google.com/document/d/1bMjJHTWkpPs88HtQdRo4E-m8U9t0Md-YRHHfbn3R8kM/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
