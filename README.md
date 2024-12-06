@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkhamhack" alt="arkhamhack" /></a> </p>
 
-- 🔭 I’m currently working on **CNCF Tools**
+- 🔭 I’m currently working on **ML and Data Platforms**
 
 - 🌱 I’m currently learning **Kubernetes, Rust and ML Pipelines**
 
