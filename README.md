@@ -5,17 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkhamhack" alt="arkhamhack" /></a> </p>
 
-- 🔭 I’m currently working on **ML and Data Platforms**
 
-- 🌱 I’m currently learning **Kubernetes, Rust and ML Pipelines**
+- 🔭 I’m currently contributing to opensource for **ML models and AI Infra**, and working on **ML and Data Platforms**
+
+- 🌱 I’m currently learning **ML Systems, GPU Infra, Rust and ML Pipelines**
 
 - 👯 I’m looking to collaborate on **Backend and Distribued System Projects**
 
 - 💬 Ask me about **Golang, C++,Comics**
 
 - 📫 How to reach me **avigyan179@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YpFfohKgbjqoREdIA05acdysoPcunz1g/view?usp=sharing](https://drive.google.com/file/d/1YpFfohKgbjqoREdIA05acdysoPcunz1g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
